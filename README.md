@@ -1,4 +1,4 @@
-# Firefox Voice
+# FF Voice
 
 ## Status
 
